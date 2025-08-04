@@ -8,5 +8,4 @@
 - **B站主页**：[https://space.bilibili.com/472968039](https://space.bilibili.com/472968039)  
 
 ### 资源分享
-我会将免费资源集中发布在 GitHub，持续更新以供学习参考：  
-（GitHub 链接稍后补充，可关注上述平台获取更新）
+我会将免费资源集中发布在 GitHub，持续更新以供学习参考.
